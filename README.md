@@ -13,6 +13,9 @@ WorldWise: Effortlessly track and map your travel adventures with a sleek UI.
 Secure login authentication ensures privacy and ease of use.
 Pinpoint your journeys on a global map, capturing memories and experiences in a simple and intuitive way.
 
+# Login
+  email: abhi@example.com
+  password: qwerty
 
 # Features
 
